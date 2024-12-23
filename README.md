@@ -7,3 +7,7 @@
 5.Name: Nirav
 Batch: TYIT(2021-24)
 E-mail: gohilnirav222@gmail.com
+
+6. Name: Aniket Tiwari
+Batch: TYIT(2021-24)
+E-mail: anikettiwarichat@gmail.com
